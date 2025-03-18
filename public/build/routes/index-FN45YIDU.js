@@ -53,7 +53,7 @@ function Index() {
           lineNumber: 27,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "We, the Progressive Conservative Party of Canada are gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and even better tomorrows." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "We, the Progressive Conservative Party of Canada are gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and definitely better tomorrows." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 10
@@ -121,4 +121,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-LCI6G2E5.js.map
+//# sourceMappingURL=/build/routes/index-FN45YIDU.js.map

@@ -25,7 +25,7 @@ export default function Index() {
       <div className="text">
          <p>Bigger, Better, Bold.</p>
          <p>hey! I'm <u>Chris Signore</u>, and together as Conservatives and Canadians we are going to reconstruct a progressive brand that builds Canada for its East and West, English and French, New Canadians and Old.</p>
-         <p>We, the Progressive Conservative Party of Canada are gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and even better tomorrows.</p>
+         <p>We, the Progressive Conservative Party of Canada are gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and definitely better tomorrows.</p>
           <p>Join me, and 12,207 engaged Conservatives and Canadians who are also wanna know what's going on.</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
