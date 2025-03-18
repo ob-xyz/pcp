@@ -31,8 +31,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Chris Signore - PC Party of Canada",
-  description: "Hey! My name is Chris Signore, and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada.",
+  title: "Progressive Conservative Party",
+  description: "Welcome to the new and improved Progressive Conservative Party of Canada.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-3EJ55RLE.js.map
+//# sourceMappingURL=/build/root-WWTOS6CM.js.map
