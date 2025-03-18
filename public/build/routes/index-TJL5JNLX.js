@@ -47,7 +47,7 @@ function Index() {
             lineNumber: 27,
             columnNumber: 22
           }, this),
-          ", and together as Conservatives and Canadians we are going to reconstruct a progressive brand that builds Canada for its East and West, English and French, New Canadians and Old."
+          ", and together as Conservatives and Canadians we are going to reconstruct a new and improved progressive brand that builds Canada for the East and West, English and French, New Canadians and Old."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
@@ -121,4 +121,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-FN45YIDU.js.map
+//# sourceMappingURL=/build/routes/index-TJL5JNLX.js.map
