@@ -23,8 +23,8 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-          <p>The Greatest Country.</p>
-          <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada—and—it's time to build the greatest country in the world.</p>
+      <p>Thank God for Canada.</p>
+      <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada—and—it's time to build the greatest country in the world.</p>
           <p>Wanna learn more? Join my free newsletter called The Citizen, we're already 12,000 strong.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">

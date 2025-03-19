@@ -35,23 +35,23 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The Greatest Country." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Thank God for Canada." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
-          columnNumber: 11
+          columnNumber: 7
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
           "hey! I'm ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("u", { children: "Chris Signore" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 27,
-            columnNumber: 23
+            columnNumber: 19
           }, this),
           " with the Progressive Conservative Party of Canada\u2014and\u2014it's time to build the greatest country in the world."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
-          columnNumber: 11
+          columnNumber: 7
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna learn more? Join my free newsletter called The Citizen, we're already 12,000 strong." }, void 0, false, {
           fileName: "app/routes/index.tsx",
@@ -116,4 +116,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-SAKFIJTX.js.map
+//# sourceMappingURL=/build/routes/index-J6HJKHQ6.js.map

@@ -31,7 +31,7 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Progressive Conservative Party",
+  title: "Progressive Conservative Party of Canada",
   description: "It's Time to Build the Greatest Country In the World with Chris Signore and the Progressive Conservative Party of Canada.",
   viewport: "width=device-width,initial-scale=1"
 });
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-OKVZRO2Q.js.map
+//# sourceMappingURL=/build/root-HLC5UUZT.js.map
