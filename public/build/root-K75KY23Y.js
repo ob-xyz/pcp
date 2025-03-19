@@ -32,7 +32,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Progressive Conservative Party",
-  description: "Welcome to the new and improved Progressive Conservative Party of Canada.",
+  description: "The Greatest Country In the World.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-6IOFMJ7W.js.map
+//# sourceMappingURL=/build/root-K75KY23Y.js.map
