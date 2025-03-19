@@ -35,32 +35,27 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Bigger, Better, Bold." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The Greatest Country." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
-          columnNumber: 10
+          columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
           "hey! I'm ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("u", { children: "Chris Signore" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 27,
-            columnNumber: 22
+            columnNumber: 23
           }, this),
-          ", and together as Conservatives and Canadians we are going to reconstruct a new and improved progressive brand that builds Canada for the East and West, English and French, New Canadians and Old."
+          " with the Progressive Conservative Party of Canada, and together, we're gonna make Canada the greatest country in the world."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
-          columnNumber: 10
+          columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "We, the Progressive Conservative Party of Canada are gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and definitely better tomorrows." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna learn more? Join 12,000 proud Canadians like me and you, and together, we'll build the greatest team." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
-          columnNumber: 10
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Join me, and 12,207 engaged Conservatives and Canadians who are also wanna know what's going on." }, void 0, false, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 29,
           columnNumber: 11
         }, this)
       ] }, void 0, true, {
@@ -71,40 +66,40 @@ function Index() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("form", { method: "post", action: "https://app.jeffamzn.com/subscription/form", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "email", type: "email", name: "email", required: true, placeholder: "Email" }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 32,
+          lineNumber: 31,
           columnNumber: 14
         }, this) }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 32,
+          lineNumber: 31,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "submit", type: "submit", value: "Get access" }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 33,
+          lineNumber: 32,
           columnNumber: 14
         }, this) }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 33,
+          lineNumber: 32,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "h-captcha", "data-sitekey": "db0e76a6-3d84-4378-abe6-88526faac9d2" }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 34,
+          lineNumber: 33,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { id: "3a575", type: "hidden", name: "l", checked: true, value: "3a575627-dc5a-4d06-b627-05ca13da2e85" }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 35,
+          lineNumber: 34,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, false, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 36,
+          lineNumber: 35,
           columnNumber: 11
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 31,
+        lineNumber: 30,
         columnNumber: 7
       }, this)
     ] }, void 0, true, {
@@ -121,4 +116,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-TJL5JNLX.js.map
+//# sourceMappingURL=/build/routes/index-U7CUIUS7.js.map
