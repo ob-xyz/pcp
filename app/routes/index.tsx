@@ -25,7 +25,7 @@ export default function Index() {
       <div className="text">
       <p>To the Thinkers and Doers.</p>
       <p>Canada is the greatest country in the world, but under Liberal leadership, you'd never know it. Well folks, that stops now.</p>
-      <p>I'm Chris Signore with the Progressive Conservative Party of Canada, and my new newsletter The Citizen breaks down the political business of Parliament Hill and brings together the thinkers and doers of Canada who are doing great, great things.</p>
+      <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> breaks down the political business of Parliament Hill and brings together the thinkers and doers of Canada who are doing great, great things.</p>
       <p>This is just one small thing I'm doing to help make Canada the greatest country in the world.</p>
       <p>Are you a proud Canadian Citizen like me who likes to just do things? Join my free newsletter, we're already 12,000 strong.</p>
       </div>
