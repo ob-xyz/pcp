@@ -26,6 +26,7 @@ export default function Index() {
       <p>To the Thinkers and Doers.</p>
       <p>Canada is the greatest country in the world, but under Liberal leadership, you'd never know it. Well folks, that stops now.</p>
       <p>I'm Chris Signore with the Progressive Conservative Party of Canada, and my new newsletter The Citizen breaks down the political business of Parliament Hill and brings together the thinkers and doers of Canada who are doing great, great things.</p>
+      <p>Just one small thing I'm doing to help make Canada the greatest country in the world.</p>
       <p>Are you a proud Canadian Citizen like me? Join my free newsletter, we're already 12,000 strong.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
