@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Progressive Conservative Party of Canada",
-  description: "It's Time to Stop the Psyop and Make Canada the Greatest Country of All Time with Chris Signore and the Progressive Conservative Party of Canada.",
+  description: "It's time to stop the psyop and make Canada the most successful country in the world.",
   viewport: "width=device-width,initial-scale=1",
 });
 
