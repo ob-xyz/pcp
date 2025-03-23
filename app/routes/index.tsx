@@ -25,7 +25,7 @@ export default function Index() {
       <div className="text">
       <p>Viva La Canada.</p>
       <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada.</p>
-      <p>Join me, and over 12,000 progressive Canadians who are Viva La Canada.</p>
+      <p>Join me, and 12,000 high agency Canadians planning for tomorrow.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>

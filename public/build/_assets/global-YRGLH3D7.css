@@ -38,7 +38,7 @@
   padding: .5rem 0 .35rem;
   text-align: center;
   line-height: 1.75rem;
-  width: 42.5%;
+  width: 55%;
 }
 .container .inner-content .text p:nth-child(1) {
   text-align: center;
@@ -52,7 +52,7 @@
   text-align: left;
 }
 .container .inner-content input {
-  width: 27rem;
+  width: 23rem;
   padding: .85rem .75rem;
   font-family: arial;
   color: #000;
@@ -80,17 +80,6 @@
 .container .inner-content .submit:hover {
   opacity: .85;
   cursor: pointer;
-}
-@media screen and (max-width: 655px) {
-  .container .inner-content .text p {
-    width: 60%;
-  }
-  .container .inner-content .text p:nth-child(1) {
-    font-size: 1.75rem;
-  }
-  .container .inner-content input {
-    width: 23.5rem;
-  }
 }
 * {
   box-sizing: border-box;
