@@ -53,7 +53,7 @@ function Index() {
           lineNumber: 27,
           columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Join me, and 12,000 high agency Canadians planning for tomorrow." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Join me, and 12,000 progressive, high agency Canadians planning for tomorrow." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 7
@@ -116,4 +116,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-RN7AH7HR.js.map
+//# sourceMappingURL=/build/routes/index-WGLFNGXP.js.map
