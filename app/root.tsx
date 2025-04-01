@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Progressive Conservative Party of Canada",
-  description: "Make Canada Very Successful.",
+  title: "PC Party of Canada — Fighting for Canada",
+  description: "With the today's current state, PCs must unite and get out to vote so we can restore our majority in the House of Commons and stop Mark Carney's global psyop.",
   viewport: "width=device-width,initial-scale=1",
 });
 

@@ -23,9 +23,10 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-      <p>Viva La Canada.</p>
-      <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada.</p>
-      <p>Join me, and 12,000 progressive, high agency Canadians planning for tomorrow.</p>
+      <p>Fighting for Canada.</p>
+      <p>Now is the time for <u>ALL</u> progressive conservatives to unite and stand together — not turn our backs and hold our heads low in defeat. Because that's <u>exactly</u> what the Liberals want us to do!</p>
+      <p>We must unite so we can be in a strong position to win the House of Commons and STOP Carney's radical agenda tout suite.</p>
+      <p>Thank you for your loyal support to the PC Party and our future!!</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
